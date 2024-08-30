@@ -1,5 +1,5 @@
 Name:           kotlin
-Version:        1.9.22
+Version:        2.0.20
 Release:        1
 Summary:        Statically typed programming language
 
